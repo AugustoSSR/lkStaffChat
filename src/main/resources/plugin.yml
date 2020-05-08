@@ -1,0 +1,12 @@
+name: lkStaffLogin
+version: ${project.version}
+main: com.developer.lk.stafflogin.Main
+authors: [Augusto]
+
+commands:
+  lgcheck:
+  lgreplace:
+  lgadd:
+  lgremove:
+  lg:
+  ls:
